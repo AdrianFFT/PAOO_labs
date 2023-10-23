@@ -1,0 +1,6 @@
+/home/balsr/stuff/PAOO/PAOO_Labs/OOP_Intro/build/CMakeFiles/main.exe.dir
+/home/balsr/stuff/PAOO/PAOO_Labs/OOP_Intro/build/CMakeFiles/edit_cache.dir
+/home/balsr/stuff/PAOO/PAOO_Labs/OOP_Intro/build/CMakeFiles/rebuild_cache.dir
+/home/balsr/stuff/PAOO/PAOO_Labs/OOP_Intro/build/classes/CMakeFiles/classes.dir
+/home/balsr/stuff/PAOO/PAOO_Labs/OOP_Intro/build/classes/CMakeFiles/edit_cache.dir
+/home/balsr/stuff/PAOO/PAOO_Labs/OOP_Intro/build/classes/CMakeFiles/rebuild_cache.dir
